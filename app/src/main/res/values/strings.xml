@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">KotlinApp</string>
     <string name="input_email">EMAIL</string>
-    <string name="input_senha">SENHA</string>
-    <string name="input_nome">NOME</string>
-    <string name="input_sobrenome">SOBRENOME</string>
+    <string name="input_senha">PASSWORD</string>
+    <string name="input_nome">NAME</string>
+    <string name="input_phne">PHONE</string>
     <string name="entrar">ENTRAR</string>
     <string name="cadastro">CADASTRE-SE</string>
     <string name="genero">Genêro com qual se identifica:</string>
